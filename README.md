@@ -1,1 +1,1 @@
-# semoa-deploy
+# semoa-deploy 1.2
