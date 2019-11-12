@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>welcome</title>
+        <meta charset="utf-8" />
+    </head>
+    <body>
+        <p>
+            Welcome to
+SemoaproApi 2.0 | SemoaproApi_Qualif
+        </p>
+        
+        <?php
+        /* Encore du PHP
+        Toujours du PHP */
+        ?>
+    </body>
+</html>
